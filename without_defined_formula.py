@@ -6,7 +6,7 @@ list = []
 # list[] creates an empty list
 
 for i in range(n):
-    element = input("Input element: ")
+    element = input("Input parameter: ")
     list.append(element)
 
 # list.append() appends/adds elements to the empty list
