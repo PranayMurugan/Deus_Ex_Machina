@@ -3,7 +3,7 @@
 n = int(input("Enter no. of given parameters: "))
 list = []
 
-# list[] creates an emepty list
+# list[] creates an empty list
 
 for i in range(n):
     element = input("Input element: ")
