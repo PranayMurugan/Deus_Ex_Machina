@@ -9,7 +9,7 @@ for i in range(n):
     element = input("Input element: ")
     list.append(element)
 
-# list.append() appends/adds elements to the emepty list
+# list.append() appends/adds elements to the empty list
 
 verify = set(list)
 
